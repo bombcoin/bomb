@@ -1,0 +1,9 @@
+Building BOMB
+
+See doc/readme-qt.rst for instructions on building BOMB QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BOMB.
+
+See doc/build-*.txt for instructions on building bombd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BOMB.
